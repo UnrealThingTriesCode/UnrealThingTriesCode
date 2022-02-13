@@ -1,4 +1,4 @@
-### Hi! I am from the netherlands and am just getting in to how things work around here!
+### Hi! 
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnrealThingTriesCode&show_icons=true&theme=tokyonight)
